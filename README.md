@@ -18,8 +18,8 @@ For this assignment you will need to test the letters of a `String` one letter a
 Suggested steps to complete this assignment
 -------------------------------------------
 
-1. Complete the following custom codingbat problems: [`findFirstA()`](http://codingbat.com/prob/p279261?parent=/home/simona1@sfusd.edu), [`findFirstAorB()`](http://codingbat.com/prob/p207840?parent=/home/simona1@sfusd.edu), [`findFirstVowel()`](http://codingbat.com/prob/p200508?parent=/home/simona1@sfusd.edu). Don't forget to log in to codingbat! 
-2. Fork and clone down this repository. (If you are working online with a Chromebook fork this [Pig Latin project on repl.it](https://repl.it/@MrSimonLowell/PigLatinDemo#Sketch.java), or just copy and paste the code and change line 3 to `String[] lines = {"beast","dough","happy","question","star","three","eagle","try"};`)
+1. Complete the following custom codingbat problems: [`findFirstA()`]https://codingbat.com/prob/p279261?parent=/home/chandru.narayan@bush.edu/piglatin), [`findFirstAorB()`](https://codingbat.com/prob/p207840?parent=/home/chandru.narayan@bush.edu/piglatin), [`findFirstVowel()`](https://codingbat.com/prob/p200508?parent=/home/chandru.narayan@bush.edu/piglatin). Don't forget to log in to codingbat! 
+2. Fork and clone down this repository. 
 3. Run the program. You should see the following (incorrect) output:  
 there are 8 lines  
 beastay  
@@ -30,7 +30,7 @@ staray
 threeay  
 eagleay  
 tryay  
-4. The output is incorrect because you need to finish the two methods `findFirstVowel` and `pigLatin.` You can use your solution from the codingbat problem to complete [`findFirstVowel`](http://codingbat.com/prob/p200508?parent=/home/simona1@sfusd.edu). It returns the position of the first 'a', 'e', 'i', 'o' or 'u'. If the word contains no vowels (like "try"), the method should return -1.
+4. The output is incorrect because you need to finish the two methods `findFirstVowel` and `pigLatin.` You can use your solution from the codingbat problem to complete [`findFirstVowel`](https://codingbat.com/prob/p200508?parent=/home/chandru.narayan@bush.edu/piglatin). It returns the position of the first 'a', 'e', 'i', 'o' or 'u'. If the word contains no vowels (like "try"), the method should return -1.
 5. Now, modify the `pigLatin()` method to implement all four rules of pig latin shown above. Rule 1 has already been implemented for you. When you've implemented all four rules correctly, the output should be:  
 eastbay  
 oughday  
@@ -40,7 +40,7 @@ arstay
 eethray  
 eagleway  
 tryay  
-6. Since there is no website for this assignment, submit the URL of your finished PigLatin repository to Google Classroom. The URL will have the form ```http://github.com/ your github username /PigLatin```
+6. Upload completed files to your Github Piglatin repository
 
 Extensions
 ----------
