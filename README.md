@@ -18,7 +18,7 @@ For this assignment you will need to test the letters of a `String` one letter a
 Suggested steps to complete this assignment
 -------------------------------------------
 
-1. Complete the following custom codingbat problems: [`findFirstA()`[https://codingbat.com/prob/p279261?parent=/home/chandru.narayan@bush.edu/piglatin), [`findFirstAorB()`](https://codingbat.com/prob/p207840?parent=/home/chandru.narayan@bush.edu/piglatin), [`findFirstVowel()`](https://codingbat.com/prob/p200508?parent=/home/chandru.narayan@bush.edu/piglatin). Don't forget to log in to codingbat! 
+1. Complete the following custom codingbat problems: [`findFirstA()`](https://codingbat.com/prob/p279261?parent=/home/chandru.narayan@bush.edu/piglatin), [`findFirstAorB()`](https://codingbat.com/prob/p207840?parent=/home/chandru.narayan@bush.edu/piglatin), [`findFirstVowel()`](https://codingbat.com/prob/p200508?parent=/home/chandru.narayan@bush.edu/piglatin). Don't forget to log in to codingbat! 
 2. Fork and clone down this repository. 
 3. Run the program. You should see the following (incorrect) output:  
 there are 8 lines  
