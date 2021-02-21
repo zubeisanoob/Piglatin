@@ -41,34 +41,3 @@ eethray
 eagleway  
 tryay  
 6. Upload completed files to your Github Piglatin repository
-
-Extensions
-----------
-
-If you have extra time, you could try to modify the program to convert entire passages of English to Pig Latin, like the one below.
-
-The Lowell Hymn:
-----------------
-
-With heads bared we stand,  
-In tribute to thee,   
-Our Alma-Mater Lowell,   
-All true to thee we'll be.   
-  
-Unfurled red and white,   
-None shall thee decry,   
-They name we love,   
-Oh Lowell High.  
-
-The Lowell Hymn in Pig Latin:
------------------------------
-
-Ithway eadshay aredbay eway andstay,  
-Inway ibutetray otay eethay,  
-Ourway Alma-Materway Owelllay,  
-Allway uetray otay eethay e'llway ebay.  
-
-Unfurledway edray andway itewhay,  
-Onenay allshay eethay ecryday,  
-Eythay amenay eway ovelay,  
-Ohway Owelllay Ighhay.  
